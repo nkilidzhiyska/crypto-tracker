@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # crypto-tracker
 =======
 ## Crypto Tracker
