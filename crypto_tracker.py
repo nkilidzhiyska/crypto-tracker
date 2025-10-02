@@ -108,6 +108,5 @@ def fetch_weekly_comparison():
 
     return df
 
-# Run the function only if this file is executed directly
 if __name__ == "__main__":
     fetch_weekly_comparison()
